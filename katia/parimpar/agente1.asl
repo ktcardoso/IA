@@ -12,10 +12,10 @@
 */
 
 // identificar divisibilidade por 3 e 6, simultaneamente
-!print_number(5).
-+!print_number(N)
+!print_number(5).      //coloca um plano
++!print_number(N)    // coloca o N como variavel = 15 (tem que usar o mesmo nome)
 <-
-	!comparation(N,F);
+	!comparation(N,F);   //chama a função debaixo
 	.print(N,"=",F).
 	
 +!comparation(N,F) : (((N mod 3) == 0) & (N mod 6)==0)<- F=edivisivel.  //: é como se fosse se
