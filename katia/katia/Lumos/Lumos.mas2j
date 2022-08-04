@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS lumos {
+
+    infrastructure: Centralised
+
+    agents: lumos;nox;
+}
+
