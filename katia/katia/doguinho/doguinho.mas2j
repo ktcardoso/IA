@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS doguinho {
+
+    infrastructure: Centralised
+
+    agents: doguinho;
+}
+
