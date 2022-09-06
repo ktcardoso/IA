@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS luz_achieve {
+
+    infrastructure: Centralised
+
+    agents:bob;kat;
+}
+

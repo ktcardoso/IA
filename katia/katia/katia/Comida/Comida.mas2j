@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS comida {
+
+    infrastructure: Centralised
+
+    agents:comer;
+}
+
