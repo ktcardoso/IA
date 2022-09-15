@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS questao6 {
+
+    infrastructure: Centralised
+
+    agents:robo;
+}
+
